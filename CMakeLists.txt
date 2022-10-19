@@ -13,7 +13,7 @@ AddProject(mc_state_observation
 )
 
 AddProject(lipm_walking_controller
-  GITHUB arntanguy/lipm_walking_controller
-  GIT_TAG topic/stabilizer
+  GITHUB mehdi-benallegue/lipm_walking_controller
+  GIT_TAG rebase_stabilizer_ana
   DEPENDS copra mc_state_observation
 )
