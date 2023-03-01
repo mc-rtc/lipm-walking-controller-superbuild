@@ -13,7 +13,7 @@ AddProject(FootSteps_Planner
 )
 
 AddProject(lipm_walking_controller
-  GITHUB mehdi-benallegue/lipm_walking_controller
+  GITHUB jrl-umi3218/lipm_walking_controller
   GIT_TAG origin/master
   DEPENDS copra mc_state_observation FootSteps_Planner
 )
